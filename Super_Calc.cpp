@@ -6,7 +6,7 @@
 using namespace std;
 class BigInt{
 protected:
-  vector <int> v;
+	vector <int> v;
 	int carry=0;
 public:
 	BigInt(){}
